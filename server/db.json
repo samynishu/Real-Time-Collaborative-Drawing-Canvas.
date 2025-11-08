@@ -1,0 +1,1479 @@
+{
+  "LTGIZU": {
+    "strokeHistory": [
+      [
+        {
+          "type": "segment",
+          "x0": 430,
+          "y0": 136,
+          "x1": 430,
+          "y1": 136,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 430,
+          "y0": 136,
+          "x1": 432,
+          "y1": 136,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 432,
+          "y0": 136,
+          "x1": 439,
+          "y1": 139,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 439,
+          "y0": 139,
+          "x1": 449,
+          "y1": 145,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 449,
+          "y0": 145,
+          "x1": 461,
+          "y1": 155,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 461,
+          "y0": 155,
+          "x1": 476,
+          "y1": 168,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 476,
+          "y0": 168,
+          "x1": 485,
+          "y1": 182,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 485,
+          "y0": 182,
+          "x1": 495,
+          "y1": 200,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 495,
+          "y0": 200,
+          "x1": 500,
+          "y1": 217,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 500,
+          "y0": 217,
+          "x1": 504,
+          "y1": 238,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 504,
+          "y0": 238,
+          "x1": 505,
+          "y1": 253,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 505,
+          "y0": 253,
+          "x1": 505,
+          "y1": 267,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 505,
+          "y0": 267,
+          "x1": 505,
+          "y1": 280,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 505,
+          "y0": 280,
+          "x1": 503,
+          "y1": 288,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 503,
+          "y0": 288,
+          "x1": 500,
+          "y1": 292,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 500,
+          "y0": 292,
+          "x1": 495,
+          "y1": 295,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 495,
+          "y0": 295,
+          "x1": 489,
+          "y1": 298,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 489,
+          "y0": 298,
+          "x1": 481,
+          "y1": 300,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 481,
+          "y0": 300,
+          "x1": 467,
+          "y1": 300,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 467,
+          "y0": 300,
+          "x1": 462,
+          "y1": 299,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 462,
+          "y0": 299,
+          "x1": 459,
+          "y1": 297,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 459,
+          "y0": 297,
+          "x1": 457,
+          "y1": 294,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 457,
+          "y0": 294,
+          "x1": 457,
+          "y1": 290,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 457,
+          "y0": 290,
+          "x1": 457,
+          "y1": 277,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 457,
+          "y0": 277,
+          "x1": 457,
+          "y1": 265,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 457,
+          "y0": 265,
+          "x1": 459,
+          "y1": 252,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 459,
+          "y0": 252,
+          "x1": 469,
+          "y1": 231,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 469,
+          "y0": 231,
+          "x1": 485,
+          "y1": 214,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 485,
+          "y0": 214,
+          "x1": 507,
+          "y1": 200,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 507,
+          "y0": 200,
+          "x1": 539,
+          "y1": 188,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 539,
+          "y0": 188,
+          "x1": 566,
+          "y1": 180,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 566,
+          "y0": 180,
+          "x1": 591,
+          "y1": 174,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 591,
+          "y0": 174,
+          "x1": 615,
+          "y1": 168,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 615,
+          "y0": 168,
+          "x1": 626,
+          "y1": 163,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 626,
+          "y0": 163,
+          "x1": 633,
+          "y1": 159,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 633,
+          "y0": 159,
+          "x1": 636,
+          "y1": 155,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 636,
+          "y0": 155,
+          "x1": 639,
+          "y1": 148,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 639,
+          "y0": 148,
+          "x1": 642,
+          "y1": 144,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 642,
+          "y0": 144,
+          "x1": 642,
+          "y1": 139,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 642,
+          "y0": 139,
+          "x1": 643,
+          "y1": 136,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 643,
+          "y0": 136,
+          "x1": 642,
+          "y1": 132,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 642,
+          "y0": 132,
+          "x1": 640,
+          "y1": 129,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 640,
+          "y0": 129,
+          "x1": 637,
+          "y1": 126,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 637,
+          "y0": 126,
+          "x1": 632,
+          "y1": 124,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 632,
+          "y0": 124,
+          "x1": 625,
+          "y1": 122,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 625,
+          "y0": 122,
+          "x1": 619,
+          "y1": 122,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 619,
+          "y0": 122,
+          "x1": 613,
+          "y1": 122,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 613,
+          "y0": 122,
+          "x1": 611,
+          "y1": 122,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 611,
+          "y0": 122,
+          "x1": 606,
+          "y1": 126,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 606,
+          "y0": 126,
+          "x1": 601,
+          "y1": 134,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 601,
+          "y0": 134,
+          "x1": 597,
+          "y1": 150,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 597,
+          "y0": 150,
+          "x1": 595,
+          "y1": 172,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 595,
+          "y0": 172,
+          "x1": 595,
+          "y1": 203,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 595,
+          "y0": 203,
+          "x1": 595,
+          "y1": 244,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 595,
+          "y0": 244,
+          "x1": 595,
+          "y1": 278,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 595,
+          "y0": 278,
+          "x1": 595,
+          "y1": 309,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 595,
+          "y0": 309,
+          "x1": 595,
+          "y1": 334,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 595,
+          "y0": 334,
+          "x1": 591,
+          "y1": 360,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 591,
+          "y0": 360,
+          "x1": 585,
+          "y1": 375,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 585,
+          "y0": 375,
+          "x1": 580,
+          "y1": 387,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 580,
+          "y0": 387,
+          "x1": 574,
+          "y1": 395,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 574,
+          "y0": 395,
+          "x1": 565,
+          "y1": 403,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 565,
+          "y0": 403,
+          "x1": 552,
+          "y1": 408,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 552,
+          "y0": 408,
+          "x1": 529,
+          "y1": 409,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 529,
+          "y0": 409,
+          "x1": 497,
+          "y1": 408,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 497,
+          "y0": 408,
+          "x1": 464,
+          "y1": 402,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 464,
+          "y0": 402,
+          "x1": 425,
+          "y1": 387,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 425,
+          "y0": 387,
+          "x1": 399,
+          "y1": 371,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 399,
+          "y0": 371,
+          "x1": 376,
+          "y1": 352,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 376,
+          "y0": 352,
+          "x1": 357,
+          "y1": 328,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 357,
+          "y0": 328,
+          "x1": 346,
+          "y1": 304,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 346,
+          "y0": 304,
+          "x1": 336,
+          "y1": 272,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 336,
+          "y0": 272,
+          "x1": 327,
+          "y1": 238,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 327,
+          "y0": 238,
+          "x1": 319,
+          "y1": 208,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 319,
+          "y0": 208,
+          "x1": 317,
+          "y1": 175,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 317,
+          "y0": 175,
+          "x1": 317,
+          "y1": 154,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 317,
+          "y0": 154,
+          "x1": 313,
+          "y1": 137,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 313,
+          "y0": 137,
+          "x1": 309,
+          "y1": 127,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 309,
+          "y0": 127,
+          "x1": 305,
+          "y1": 120,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 305,
+          "y0": 120,
+          "x1": 297,
+          "y1": 116,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 297,
+          "y0": 116,
+          "x1": 287,
+          "y1": 116,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 287,
+          "y0": 116,
+          "x1": 274,
+          "y1": 116,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 274,
+          "y0": 116,
+          "x1": 258,
+          "y1": 117,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 258,
+          "y0": 117,
+          "x1": 237,
+          "y1": 126,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 237,
+          "y0": 126,
+          "x1": 221,
+          "y1": 136,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 221,
+          "y0": 136,
+          "x1": 207,
+          "y1": 148,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 207,
+          "y0": 148,
+          "x1": 188,
+          "y1": 168,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 188,
+          "y0": 168,
+          "x1": 173,
+          "y1": 190,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 173,
+          "y0": 190,
+          "x1": 165,
+          "y1": 212,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 165,
+          "y0": 212,
+          "x1": 158,
+          "y1": 244,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 158,
+          "y0": 244,
+          "x1": 157,
+          "y1": 270,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 157,
+          "y0": 270,
+          "x1": 161,
+          "y1": 297,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 161,
+          "y0": 297,
+          "x1": 169,
+          "y1": 319,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 169,
+          "y0": 319,
+          "x1": 185,
+          "y1": 344,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 185,
+          "y0": 344,
+          "x1": 206,
+          "y1": 364,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 206,
+          "y0": 364,
+          "x1": 234,
+          "y1": 384,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 234,
+          "y0": 384,
+          "x1": 277,
+          "y1": 406,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 277,
+          "y0": 406,
+          "x1": 311,
+          "y1": 422,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 311,
+          "y0": 422,
+          "x1": 337,
+          "y1": 434,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 337,
+          "y0": 434,
+          "x1": 355,
+          "y1": 442,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 355,
+          "y0": 442,
+          "x1": 373,
+          "y1": 447,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 373,
+          "y0": 447,
+          "x1": 392,
+          "y1": 447,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 392,
+          "y0": 447,
+          "x1": 418,
+          "y1": 447,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 418,
+          "y0": 447,
+          "x1": 445,
+          "y1": 446,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 445,
+          "y0": 446,
+          "x1": 480,
+          "y1": 436,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 480,
+          "y0": 436,
+          "x1": 511,
+          "y1": 426,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 511,
+          "y0": 426,
+          "x1": 545,
+          "y1": 410,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 545,
+          "y0": 410,
+          "x1": 589,
+          "y1": 389,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 589,
+          "y0": 389,
+          "x1": 623,
+          "y1": 372,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 623,
+          "y0": 372,
+          "x1": 649,
+          "y1": 358,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 649,
+          "y0": 358,
+          "x1": 666,
+          "y1": 349,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 666,
+          "y0": 349,
+          "x1": 681,
+          "y1": 337,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 681,
+          "y0": 337,
+          "x1": 695,
+          "y1": 327,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 695,
+          "y0": 327,
+          "x1": 712,
+          "y1": 314,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 712,
+          "y0": 314,
+          "x1": 726,
+          "y1": 304,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 726,
+          "y0": 304,
+          "x1": 735,
+          "y1": 298,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 735,
+          "y0": 298,
+          "x1": 743,
+          "y1": 292,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 743,
+          "y0": 292,
+          "x1": 749,
+          "y1": 290,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 749,
+          "y0": 290,
+          "x1": 753,
+          "y1": 289,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 753,
+          "y0": 289,
+          "x1": 757,
+          "y1": 289,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 757,
+          "y0": 289,
+          "x1": 761,
+          "y1": 289,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 761,
+          "y0": 289,
+          "x1": 768,
+          "y1": 290,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 768,
+          "y0": 290,
+          "x1": 774,
+          "y1": 296,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 774,
+          "y0": 296,
+          "x1": 782,
+          "y1": 310,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 782,
+          "y0": 310,
+          "x1": 793,
+          "y1": 333,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 793,
+          "y0": 333,
+          "x1": 805,
+          "y1": 376,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 805,
+          "y0": 376,
+          "x1": 807,
+          "y1": 412,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 807,
+          "y0": 412,
+          "x1": 807,
+          "y1": 442,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 807,
+          "y0": 442,
+          "x1": 802,
+          "y1": 468,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 802,
+          "y0": 468,
+          "x1": 795,
+          "y1": 479,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 795,
+          "y0": 479,
+          "x1": 789,
+          "y1": 484,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 789,
+          "y0": 484,
+          "x1": 777,
+          "y1": 484,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 777,
+          "y0": 484,
+          "x1": 761,
+          "y1": 484,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 761,
+          "y0": 484,
+          "x1": 739,
+          "y1": 480,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 739,
+          "y0": 480,
+          "x1": 710,
+          "y1": 468,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 710,
+          "y0": 468,
+          "x1": 695,
+          "y1": 460,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 695,
+          "y0": 460,
+          "x1": 691,
+          "y1": 453,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 691,
+          "y0": 453,
+          "x1": 687,
+          "y1": 448,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 687,
+          "y0": 448,
+          "x1": 684,
+          "y1": 433,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 684,
+          "y0": 433,
+          "x1": 677,
+          "y1": 404,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 677,
+          "y0": 404,
+          "x1": 671,
+          "y1": 379,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 671,
+          "y0": 379,
+          "x1": 665,
+          "y1": 350,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 665,
+          "y0": 350,
+          "x1": 663,
+          "y1": 323,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 663,
+          "y0": 323,
+          "x1": 663,
+          "y1": 291,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 663,
+          "y0": 291,
+          "x1": 663,
+          "y1": 270,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 663,
+          "y0": 270,
+          "x1": 667,
+          "y1": 254,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        },
+        {
+          "type": "segment",
+          "x0": 667,
+          "y0": 254,
+          "x1": 671,
+          "y1": 242,
+          "color": "#000000",
+          "width": 5,
+          "tool": "brush"
+        }
+      ]
+    ],
+    "redoStack": []
+  }
+}
