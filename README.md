@@ -4,7 +4,7 @@ This is a multi-user, real-time collaborative whiteboarding application built wi
 
 The project fulfills all core requirements of the assignment, including real-time drawing, user indicators, and global undo/redo, as well as several bonus features.
 
-## 🚀 Core Features
+## Core Features
 
 * **Real-Time Collaboration**: All actions are broadcast to other users in the same room in real-time.
 * **Private Room System**: Users can create private rooms with a unique, shareable 6-digit ID.
@@ -27,13 +27,13 @@ The project fulfills all core requirements of the assignment, including real-tim
     * **Touch Support**: Full drawing and tool support for mobile/tablet.
     * **Performance Overlay**: An optional overlay shows real-time FPS and network Ping (Latency).
 
-## 🔧 Tech Stack
+## Tech Stack
 
 * **Backend**: Node.js, Express, Socket.io, TypeScript
 * **Frontend**: Vanilla JavaScript (ES6+), HTML5 Canvas, Socket.io-client
 * **Persistence**: Local JSON file (`db.json`) acting as a simple database.
 
-## ⚙️ Setup & Running
+## Setup & Running
 
 1.  **Clone the Repository**:
     ```bash
@@ -57,7 +57,7 @@ The project fulfills all core requirements of the assignment, including real-tim
     * Open your web browser and navigate to `http://localhost:3000`.
     * You will be presented with the "Create" or "Join" room screen.
 
-## 🧪 How to Test with Multiple Users
+## How to Test with Multiple Users
 
 1.  **Open Window 1**: Open `http://localhost:3000` in a normal browser window.
 2.  **Create a Room**:
@@ -75,12 +75,12 @@ The project fulfills all core requirements of the assignment, including real-tim
     * Click "Join".
 6.  **Test**: You should now see both "Alice" and "Bob" in the user list in both windows. Actions performed in one window (drawing, moving cursors, creating shapes) will appear instantly in the other.
 
-## ⚠️ Known Limitations
+## Known Limitations
 
 * **No Resize/Rotate**: Objects can be selected and *moved*, but they cannot be resized or rotated.
 * **Eraser vs. Objects**: The eraser is pixel-based and will not "erase" objects (shapes, text, images). It will draw *under* them, and the object will be redrawn on top during the next redraw.
 * **No Layering**: There is no "bring to front" or "send to back" functionality. Objects are rendered in the order they were created.
 
-## ⏰ Time Spent on Project
+## Time Spent on Project
 
-*(Please fill this in yourself based on your work)*
+*(6 Hrs)*
