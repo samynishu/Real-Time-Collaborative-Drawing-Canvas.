@@ -5,7 +5,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { addStrokeToHistory, clearHistory, getHistory, undo, redo, deleteRoom } from './drawing-state.js';
 
-// --- Helper Functions ---
+//Helper Functions
 function getRandomColor() {
   const letters = '0123456789ABCDEF';
   let color = '#';
@@ -20,13 +20,13 @@ function generateRoomID() {
     return Math.random().toString(36).substring(2, 8).toUpperCase();
 }
 
-// --- Server Setup ---
+//Server Setup
 const app = express();
 const httpServer = createServer(app);
 const io = new Server(httpServer);
 const PORT = process.env.PORT || 3000;
 
-// --- State Management ---
+//State Management
 // { socketId: { color: '#...', name: 'Alice' } }
 const users: Record<string, { color: string, name: string }> = {};
 // { socketId: 'A4B9C' }
@@ -51,17 +51,17 @@ function getUsersInRoom(roomID: string) {
     return usersInRoom;
 }
 
-// --- Static File Serving ---
+//Static File Serving
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const clientPath = path.join(__dirname, '..', 'client');
 app.use(express.static(clientPath));
 
-// --- Socket.IO Logic ---
+//Socket.IO Logic
 io.on('connection', (socket) => {
     console.log('✅ A socket connected:', socket.id);
 
-    // --- 1. CREATE ROOM ---
+    //1. CREATE ROOM
     socket.on('ping-check', () => {
         socket.emit('pong-check');
     });
@@ -96,7 +96,7 @@ io.on('connection', (socket) => {
         });
     });
 
-    // --- 2. JOIN ROOM ---
+    // 2. JOIN ROOM
     socket.on('join-room', (payload: { username: string, roomID: string }) => {
         const safeName = (payload.username || 'Guest').trim().substring(0, 20);
         const roomID = payload.roomID.toUpperCase();
@@ -131,7 +131,7 @@ io.on('connection', (socket) => {
     });
 
 
-    // --- 3. In-Game Events ---
+    // 3. In-Game Events
     
     function getSocketRoom(): string | undefined {
         return socketRoomMap.get(socket.id);
@@ -180,7 +180,7 @@ io.on('connection', (socket) => {
         });
     });
 
-    // --- 4. Disconnect ---
+    // 4. Disconnect
     socket.on('disconnect', () => {
         console.log('❌ Socket disconnected:', socket.id);
         
@@ -207,7 +207,8 @@ io.on('connection', (socket) => {
     });
 });
 
-// --- Start Server ---
+//Start Server
 httpServer.listen(PORT, () => {
   console.log(`🚀 Server is running on http://localhost:${PORT}`);
+
 });
