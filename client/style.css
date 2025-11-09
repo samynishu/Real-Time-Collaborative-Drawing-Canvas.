@@ -1,4 +1,3 @@
-/* ... (All body, toolbar, canvas, user-list styles are the same) ... */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -34,7 +33,7 @@ button.tool.active { background-color: #007bff; color: white; border-color: #007
     position: fixed;
     top: 80px;
     right: 10px;
-    width: 200px; /* Made it a bit wider */
+    width: 200px; 
     background: #fff;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -51,7 +50,7 @@ button.tool.active { background-color: #007bff; color: white; border-color: #007
 #user-list ul { list-style-type: none; padding: 0; margin: 0; }
 #user-list li { padding: 3px 0; font-size: 0.9em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: default; }
 
-/* --- NEW: Room Info Box --- */
+/* Room Info Box */
 #room-info {
     padding-bottom: 10px;
     border-bottom: 2px solid #ccc;
@@ -75,7 +74,7 @@ button.tool.active { background-color: #007bff; color: white; border-color: #007
     color: #d63384;
 }
 
-/* --- MODIFIED: Join Screen Styles --- */
+/* MODIFIED: Join Screen Styles */
 #join-screen {
     position: fixed;
     top: 0;
@@ -141,11 +140,11 @@ button.tool.active { background-color: #007bff; color: white; border-color: #007
     height: 1em; /* Reserve space */
 }
 
-/* ... (Responsive styles are unchanged) ...
+/* (Responsive styles are unchanged)
 
-/* ... (end of your existing CSS) ... */
+/*(end of your existing CSS)*/
 
-/* --- Performance Stats Overlay --- */
+/*Performance Stats Overlay*/
 #performance-stats {
     position: fixed;
     top: 10px;
@@ -164,4 +163,5 @@ button.tool.active { background-color: #007bff; color: white; border-color: #007
 /* Color coding for latency health */
 #performance-stats.ping-good { color: #0f0; } /* Green */
 #performance-stats.ping-ok   { color: #ff0; } /* Yellow */
+
 #performance-stats.ping-bad  { color: #f03; } /* Red */
