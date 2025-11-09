@@ -1,5 +1,5 @@
 const Drawing = (function() {
-    // --- 1. Setup ---
+    //1. Setup
     const canvas = document.getElementById('drawing-canvas');
     if (!canvas) {
         console.error("Fatal Error: Canvas element not found.");
@@ -23,7 +23,7 @@ const Drawing = (function() {
         width: 5
     };
 
-    // --- 2. Core Drawing Event Handlers ---
+    // 2. Core Drawing Event Handlers
 
     function startDraw(e) {
         // Prevent default to stop scrolling on touch devices
@@ -56,7 +56,7 @@ const Drawing = (function() {
         const [currentX, currentY] = getEventPos(e);
 
         if (state.tool === 'brush' || state.tool === 'eraser') {
-            // --- Freehand Drawing ---
+            //Freehand Drawing
             const drawData = {
                 type: 'segment',
                 x0: startX, // The end of the last segment is the start of this one
@@ -79,7 +79,7 @@ const Drawing = (function() {
             [startX, startY] = [currentX, currentY];
 
         } else if (state.tool === 'rect' || state.tool === 'circle') {
-            // --- Shape Preview ---
+            // Shape Preview
             // 1. Clear the canvas back to how it was before we started dragging
             ctx.putImageData(snapshot, 0, 0);
             // 2. Draw the shape in its current temporary state
@@ -158,7 +158,7 @@ const Drawing = (function() {
         }
     }
 
-    // --- 4. Generic Drawing Router (The Core Renderer) ---
+    // 4. Generic Drawing Router (The Core Renderer)
     // This function knows how to draw ANY type of data our app supports.
     function drawGeneric(data) {
         ctx.save();
@@ -213,7 +213,7 @@ const Drawing = (function() {
         ctx.restore();
     }
 
-    // --- 5. Helper Functions ---
+    //5. Helper Functions
 
     // Gets (x,y) relative to canvas for BOTH mouse and touch
     function getEventPos(e) {
@@ -256,7 +256,7 @@ const Drawing = (function() {
         }
     }
 
-    // --- 6. Public API ---
+    //6. Public API
     return {
         init: (clientSocket) => {
             socket = clientSocket;
@@ -265,7 +265,7 @@ const Drawing = (function() {
             window.addEventListener('resize', resizeCanvas);
             resizeCanvas();
 
-            // --- Attach Event Listeners ---
+            //Attach Event Listeners
             // Mouse
             canvas.addEventListener('mousedown', startDraw);
             canvas.addEventListener('mousemove', draw);
@@ -294,7 +294,7 @@ const Drawing = (function() {
 
         isReady: () => ready,
 
-        // --- Image Upload Handler ---
+        //Image Upload Handler
         handleImageUpload: (file) => {
             if (!file.type.startsWith('image/')) {
                 alert('Please upload an image file.');
@@ -333,4 +333,5 @@ const Drawing = (function() {
             reader.readAsDataURL(file);
         }
     };
+
 })();
