@@ -9,9 +9,8 @@ socket.on('disconnect', () => {
     alert("You have been disconnected. Please refresh to rejoin.");
 });
 
-// =========================================
-// === PERFORMANCE METRICS MODULE ===
-// =========================================
+
+// Performence Metrics Module
 const Performance = (function() {
     const statsEl = document.getElementById('performance-stats');
     let fps = 0, latency = 0, frameCount = 0, lastFpsUpdate = performance.now();
@@ -54,13 +53,9 @@ const Performance = (function() {
         }
     };
 })();
-// =========================================
-// === (End of Performance Module) ===
-// =========================================
 
 
-// --- Server Listeners ---
-
+// Server Listeners 
 socket.on('room-joined', (data) => {
     const { roomID, roomName, history, users } = data;
     console.log(`🎉 Joined room! ${roomName} (${roomID})`);
@@ -111,7 +106,7 @@ socket.on('history', (history) => {
     });
 });
 
-// --- Cursor Logic ---
+//Cursor Logic
 const userCursors = {};
 socket.on('cursor-move', (data) => {
     const { id, x, y, color } = data;
@@ -136,7 +131,7 @@ socket.on('user-disconnect', (id) => {
     }
 });
 
-// --- User List Logic ---
+//User List Logic
 socket.on('update-users', (users) => {
     updateUserList(users);
 });
@@ -166,14 +161,14 @@ function escapeHtml(unsafe) {
 }
 
 
-// --- 2. App Initialization ---
+//2. App Initialization
 document.addEventListener('DOMContentLoaded', () => {
     
-    // --- Initialize Modules ---
+    // Initialize Modules
     Drawing.init(socket);
     Performance.init(socket);
 
-    // --- Join Screen View Management ---
+    //Join Screen View Management
     const joinScreen = document.getElementById('join-screen');
     const menuView = document.getElementById('join-menu-view');
     const createView = document.getElementById('create-room-view');
@@ -199,7 +194,7 @@ document.addEventListener('DOMContentLoaded', () => {
         menuView.style.display = 'block';
     });
 
-    // --- Join Screen Actions ---
+    // Join Screen Actions
     const createUsernameInput = document.getElementById('create-username-input');
     const createRoomNameInput = document.getElementById('create-room-name-input');
     const createRoomBtn = document.getElementById('create-room-btn');
@@ -232,7 +227,7 @@ document.addEventListener('DOMContentLoaded', () => {
         socket.emit('join-room', { username, roomID });
     });
 
-    // --- Toolbar & Tool Listeners ---
+    //Toolbar & Tool Listeners
     
     // Group tool buttons for easy active-state management
     const toolButtons = [
@@ -281,7 +276,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('action-undo').addEventListener('click', () => socket.emit('undo'));
     document.getElementById('action-redo').addEventListener('click', () => socket.emit('redo'));
 
-    // --- Cursor Sending Logic ---
+    //Cursor Sending Logic
     const canvas = document.getElementById('drawing-canvas');
  // --- Cursor Sending Logic ---
     if (canvas) {
@@ -320,4 +315,5 @@ document.addEventListener('DOMContentLoaded', () => {
             if (isJoined()) socket.emit('cursor-move', { x: -100, y: -100 });
         });
     }
+
 }); // End of DOMContentLoaded
