@@ -8,7 +8,7 @@ interface RoomState {
     redoStack: Stroke[];
 }
 
-// --- NEW: We now store a Map of room names to their state ---
+//We now store a Map of room names to their state
 const roomStates = new Map<string, RoomState>();
 
 /**
@@ -66,11 +66,11 @@ export const redo = (roomName: string) => {
 };
 
 /**
- * --- NEW: Clean up a room's state when it's empty ---
- * (We'll call this later)
- */
+ *Clean up a room's state when it's empty
+*/
 export const deleteRoom = (roomName: string) => {
     if (roomStates.has(roomName)) {
         roomStates.delete(roomName);
     }
+
 };
